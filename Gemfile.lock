@@ -235,7 +235,7 @@ DEPENDENCIES
   coveralls (~> 0.8)
   cucumber (~> 2.0)
   haml (~> 4.0)
-  kramdown (~> 1.2)
+  kramdown (> 1.2)
   liquid (~> 3.0)
   middleman-cli!
   middleman-core!
